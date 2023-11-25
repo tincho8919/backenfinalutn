@@ -22,8 +22,8 @@ hay una seccion donde te muestra los usuarios
  tanto como modificar y borrar usuarios se poede ver en base de datos
  todos los cambios
 el login: se utiliza para entrar a secciones de desarrollador (debe
-recordar bien su email y contraseña) al loguerse puede modificar todo pero el email en uso no
-por que esta en uso tiene que poner otro email se puede cerrar cesion desde user el boton cerrar cession
+recordar bien su email y contraseña) al loguerse puede modificar todo... 
+el loguin se puede cerrar cesion desde user el boton cerrar cession
 lo demas es todo modificable recuerde siempre que modifica el email y pasword para hacer loguin...
 Trae tres secciones de crud completo
 una inserta emplados con el crud completo
@@ -36,7 +36,7 @@ e todo se inserta en users en mongodb
 la seccion user de la web se puede ver id , nombre y email del usuario
 
 "importante el id se puede ver en la misma web en user"
-"Importante recuerde email y contrasrña con la vual se registro
+"Importante recuerde email y contrasrña con la cual se registro
 en caso de modificarla recuerde la modificada"
 (puede registrar siempre que quiera pero con diferentes email)
 
@@ -44,7 +44,7 @@ en caso de modificarla recuerde la modificada"
 
 -dependencias:en defecto se ven todas en los package.json:
 
-*BACK: levanta :npm run dev
+*BACK: levanta :npm run dev o npm start
 
 - cors
 - dotenv
