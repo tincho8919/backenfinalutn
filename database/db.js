@@ -4,16 +4,16 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 
-const PORT = process.env.PORT || 8080
+/* const PORT = process.env.PORT || 8080
 const DB_NAME = process.env.DB_NAME
 const DB_PASSWORD = process.env.DB_PASSWORD
-const CONNECTION_URL = `mongodb+srv://tincho8919:${DB_PASSWORD}@cluster0.6ffhqdi.mongodb.net/${DB_NAME}`
+const URL = process.env.URL */
 
 
 // Configura la opción strictQuery
 mongoose.set('strictQuery', false);
 
-const db = mongoose.connect(CONNECTION_URL,  {
+const db = mongoose.connect('mongodb+srv://tincho8919:34697923@backendutn.2pwp6mp.mongodb.net/backendutn?retryWrites=true&w=majority',  {
     useNewUrlParser: true,
 })
 .then(() =>{
