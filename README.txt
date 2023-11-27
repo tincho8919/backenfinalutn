@@ -3,7 +3,9 @@ DNI: 34697932
  
 GITHUB LINK : https://github.com/tincho8919/backenfinalutn.git
 
-LINK DE WEB : https://finalutnback.onrender.com/
+LINK DE WEB : https://frontfinalutm.vercel.app/
+
+LINK BACKEND WEB : https://finalutnback.onrender.com/
 
 "IMPORTANTE TIENE QUE HACER EL REGISTRO Y ESTAR LIGUIN PARA ACCEDER A LAS RUTAS"
 "RUTAS: *USER *USER MYD *CARGA DE PRODUCTOS *DESARROLLADOR"
