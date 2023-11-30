@@ -9,7 +9,7 @@ LINK BACKEND WEB : https://finalutnback.onrender.com/
 
 "IMPORTANTE TIENE QUE HACER EL REGISTRO Y ESTAR LIGUIN PARA ACCEDER A LAS RUTAS"
 "RUTAS: *USER *USER MYD *CARGA DE PRODUCTOS *DESARROLLADOR"
-
+"al principio tarda en cargar algunas cosas pero anda toto joya hasta la base de datos"
 BREVE EXPLICACION: Tiende tres data base en mongo db una se llama blog y la otra product e users
  hay tres crud una insertar empleados y la otra carga de productos y la otro carga usuarios
 fronten hecho en react con secciones totalmente responsive
